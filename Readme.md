@@ -15,4 +15,4 @@ A web app to find the number of occurrences of characters.
 
 ## Sample Screenshots
 1. ![Sample Output1](https://github.com/vatsss/CharacterFrequency-web-app/blob/main/output1.png)
-2. ![Sample Output2](\output2.png)
+2. ![Sample Output2](https://github.com/vatsss/CharacterFrequency-web-app/blob/main/output2.png)
