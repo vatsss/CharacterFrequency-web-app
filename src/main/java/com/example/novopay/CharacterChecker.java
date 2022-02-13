@@ -1,4 +1,4 @@
-package com.example.novopay.util;
+package com.example.novopay;
 
 
 import org.springframework.stereotype.Controller;

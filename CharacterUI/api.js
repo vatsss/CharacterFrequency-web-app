@@ -13,6 +13,7 @@
     }
     function getFrequency(){
     let inputText = document.getElementById('userInput').value;
+    url = "http://localhost:8082/getCharacterCount/";
     url+=inputText;
     console.log(url);
     //API call

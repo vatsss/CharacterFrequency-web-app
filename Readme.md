@@ -13,3 +13,6 @@ A web app to find the number of occurrences of characters.
 3. Run the application using _**./gradlew bootRun**_ command.
 
 
+##Sample Screenshots
+1. ![Sample Output1](\output1.png)
+2. ![Sample Output2](\output2.png)
